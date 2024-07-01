@@ -1,0 +1,1 @@
+Alpha ICT Ltd. is committed to delivering top-tier IT solutions, encompassing software development, IT consulting, and managed services. To achieve this, the company requires a robust and scalable technology architecture. This document outlines the core components of a comprehensive technology architecture tailored to the needs of Alpha ICT Ltd.
